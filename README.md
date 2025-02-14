@@ -8,20 +8,19 @@ The Equity Research News Tool is a Streamlit-based web application that fetches 
 - Display article titles, descriptions, and links
 - Sidebar settings for Groq API model selection and tuning parameters
 - Interactive user input for dynamic news retrieval
-- Displays output image (`img2.png`)
 
 ## Project Pipeline
 1. **User Input**: The user provides a query for relevant news articles.
 2. **Fetch News**: The NewsAPI fetches relevant articles based on the query.
 3. **Process Data**: Extracts key details like title, description, and URL.
 4. **Display Results**: News articles are displayed in the Streamlit interface.
-5. **Image Display**: Outputs an image (`img2.png`) for better visualization.
+5. **Image Display**: Outputs an image for better visualization.
 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo-name.git
-   cd your-repo-name
+   git clone (https://github.com/PankajDevikar/News_Research_Tool.git)
+
    ```
 2. Install dependencies:
    ```bash
@@ -29,9 +28,7 @@ The Equity Research News Tool is a Streamlit-based web application that fetches 
    ```
 3. Set up environment variables:
    - Create a `.env` file and add:
-     ```
-     NEWSAPI_KEY=your_newsapi_key
-     ```
+   - 
 4. Run the application:
    ```bash
    streamlit run app.py
@@ -43,5 +40,6 @@ The Equity Research News Tool is a Streamlit-based web application that fetches 
 - Add real-time notifications for breaking news.
 
 ## Output Display
-The application displays the fetched news articles along with an image (`img2.png`) for better user experience.
+![output](https://github.com/PankajDevikar/News_Research_Tool/blob/main/img2.jpg)
+![output](https://github.com/PankajDevikar/News_Research_Tool/blob/main/img3.jpg)
 
