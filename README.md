@@ -1,7 +1,7 @@
-# Equity Research News Tool
+# News Research Tool
 
 ## Project Overview
-The Equity Research News Tool is a Streamlit-based web application that fetches and displays the latest news articles relevant to a given query. It leverages the NewsAPI to retrieve news articles and allows users to customize the model settings via Groq's LLM models.
+The News Research Tool is a Streamlit-based web application that fetches and displays the latest news articles relevant to a given query. It leverages the NewsAPI to retrieve news articles and allows users to customize the model settings via Groq's LLM models.
 
 ## Features
 - Fetch latest news articles based on user query
