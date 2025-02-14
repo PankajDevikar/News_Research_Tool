@@ -40,6 +40,6 @@ The Equity Research News Tool is a Streamlit-based web application that fetches 
 - Add real-time notifications for breaking news.
 
 ## Output Display
-![Main UI](https://github.com/PankajDevikar/News_Research_Tool/blob/main/img2.jpg)
+![Main UI](https://github.com/PankajDevikar/News_Research_Tool/blob/main/img2.png)
 ![Summary](https://github.com/PankajDevikar/News_Research_Tool/blob/main/img3.jpg)
 
